@@ -1,0 +1,45 @@
+
+/* first section style */
+
+/* font style */
+.inter-normal-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-size: 34px;
+  color: #4E47FF;
+}
+
+.raleway-normal-font {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.clr-chng{
+    color: rgb(255, 140, 18);
+}
+
+.nav-apart{
+   display: flex;
+   justify-content: space-between; 
+   align-items: center;
+   padding: 20px, 40px;
+   
+}
+
+.btn-primary{
+  background-color: #4E47FF;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-style: none;
+  color: white;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: "Raleway", sans-serif;
+ 
+}
+
